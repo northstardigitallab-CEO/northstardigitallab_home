@@ -248,7 +248,7 @@ export default function NorthstarLab() {
              
              {/* 🔹 로고 이미지 적용된 부분 🔹 */}
              <img 
-               src="/northstardigitallab.jpg" 
+               src="/northstardigitallab.png" 
                alt="Northstar Logo" 
                className="h-10 w-auto object-contain rounded-sm"
              />
