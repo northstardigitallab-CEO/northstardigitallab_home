@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X, Globe, ArrowRight, Mail, BarChart3, Layers, MonitorPlay, Cpu, Sparkles, Loader2 } from 'lucide-react';
 
 // --- Gemini API Configuration ---
-const apiKey = ""; // 여기에 API 키를 넣으면 AI가 작동합니다
+const apiKey = "AIzaSyBltatz_JeqfE0qrrGxMpWtvIbaapY2IXQ"; // 여기에 API 키를 넣으면 AI가 작동합니다
 
 // --- 1. Content Data ---
 const content = {
